@@ -1,0 +1,19 @@
+{
+  "name": "vector-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo\"Error: no test specified\" && exit 1\""
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "mttkrm",
+  "license": "ISC",
+  "dependencies": {
+    "weaviate": "^0.0.14",
+    "weaviate-ts-client": "^1.0.0"
+  }
+}
